@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 23310eae9788e6840a0f17c59e1b5ce0
+  - enabled: 1
+    path: Assets/Decrepit Dungeon LITE/EXAMPLE/Level1.unity
+    guid: 14a2c64dbd956d346b9f674d144cc297
+  - enabled: 1
+    path: Assets/Cemetery Kit V1.25/Demos/Church.unity
+    guid: 142686dd86c83c84592390d4b3bb35ff
   m_configObjects: {}
